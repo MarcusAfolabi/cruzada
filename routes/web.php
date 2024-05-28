@@ -16,6 +16,21 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/thank-you', function () {
+    return view('pages.thank-you');
+});
+Route::get('/about', function () {
+    return view('pages.about');
+});
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+Route::get('/donate', function () {
+    return view('pages.donate');
+});
+Route::get('/partner', function () {
+    return view('pages.partner');
+});
 
 Route::get('/become-a-christian', function () {
     return view('pages.become-a-christian');

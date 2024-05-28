@@ -1,4 +1,5 @@
 @extends('layouts.main')
+@section('title', 'Welcome to the CRUZADA')
 @section('main')
     <section class="section-hero">
         <div class="hero relative z-10">
