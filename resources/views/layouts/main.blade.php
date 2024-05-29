@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="WEBSHOP TECHNOLOGY" />
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>@yield('title') | {{ config('app.name', 'Cruzada Network International') }}</title>
     <meta name="description" content="The Bible is the foundation for Christianity. It contains the answers to all of life’s vital questions and changes the very lens of the worldview through which we view reality.">

@@ -33,22 +33,22 @@
                         </div>
                         <div class="flex w-full flex-col justify-between gap-x-28 xxl:flex-row">
                             <div class="jos flex" data-jos_animation="fade-right">
-                                <img src="assets/img/images/th-1/about-img.jpg" alt="about-img" width="648" height="465" class="h-auto w-full" />
+                                <img src="assets/img/images/th-1/about-img-2.jpg" alt="about-img" width="648" height="465" class="h-auto w-full" />
                             </div>
 
                             <div class="flex flex-col justify-between gap-y-10 py-[50px]">
                                 <div class="jos grid grid-cols-2 justify-items-start lg:gap-12 xl:gap-16 xxl:gap-24" data-jos_delay="0.3">
                                     <div class="text-center">
                                         <div class="font-title text-5xl leading-[1.1] text-colorOrange sm:text-6xl md:text-7xl xl:text-[100px]" data-module="countup">
-                                            <span class="start-number" data-countup-number="4">4</span>M+
+                                            <span class="start-number" data-countup-number="4">4</span>k+
                                         </div>
-                                        <span class="text-white/75">Awesome clients</span>
+                                        <span class="text-gray-500">Bible distributed clients</span>
                                     </div>
                                     <div class="text-center">
                                         <div class="font-title text-5xl leading-[1.1] text-colorOrange sm:text-6xl md:text-7xl xl:text-[100px]" data-module="countup">
-                                            <span class="start-number" data-countup-number="2">2</span>B+
+                                            <span class="start-number" data-countup-number="90">90</span>+
                                         </div>
-                                        <span class="text-white/75">We earnings a year</span>
+                                        <span class="text-gray-500">Villages touched</span>
                                     </div>
                                 </div>
                                 <div class="jos justify-items-end" data-jos_delay="0.6">

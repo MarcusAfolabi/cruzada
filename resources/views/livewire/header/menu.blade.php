@@ -56,28 +56,6 @@
                     </nav>
                 </div>
             </div>
-            <div class="flex items-center gap-11">
-                <div class="relative">
-                    <button id="toggleButton">
-                        <img src="assets/img/icon/icon-gray-search.svg" alt="icon-gray-search" width="15" height="15" class="h-5 w-5 invert" />
-                    </button>
-                    <div id="searchContainer" class="absolute right-0 ml-4 hidden translate-y-[30px]">
-                        <input type="search" placeholder="Search..." class="rounded-[27px] border bg-colorDark px-4 py-2 focus:outline-none" />
-                    </div>
-                </div>
-                <div class="hidden rounded-[27px] border border-colorDark/[7%] bg-colorDark/5 px-5 py-2 text-sm font-medium text-colorDark/85 xxl:inline-block">
-                    WhatsApp:
-                    <a href="tel:+234534890111" class="font-semibold text-colorDark">(234) 534-890-11</a>
-                </div>
-                <button class="hidden">
-                    <img src="assets/img/icon/icon-white-menu-line.svg" alt="icon-white-menu-line" width="24" height="24" class="h-6 w-6" />
-                </button>
-                <div class="block lg:hidden">
-                    <button id="openBtn" class="hamburger-menu mobile-menu-trigger">
-                        <span class="bg-colorDark before:bg-colorDark after:bg-colorDark"></span>
-                    </button>
-                </div>
-            </div>
         </div>
     </div>
 </header>
