@@ -14,6 +14,8 @@ Country: {{ $soul['country'] }},
 Prayer: {{ $soul['prayer_request'] ?? 'NA' }}
 
 
+
+
 Thanks,<br>
 {{ config('app.name') }}
 </x-mail::message>

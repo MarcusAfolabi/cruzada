@@ -2,49 +2,46 @@
 
 namespace App\Livewire;
 
+use App\Mail\Donations;
 use App\Models\Country;
 use Livewire\Component;
-use App\Mail\ContactForm;
 use Illuminate\Support\Facades\Mail;
 
-class Contact extends Component
+class DonateForm extends Component
 {
     public $name;
     public $email;
     public $phone;
+    public $amount;
     public $country;
-    public $countries;
-    public $message;
 
+ 
     protected $rules = [
         "name" => "required|max:200|string",
-        "email" => "required|email|string",
+        "email" => "required|email",
         "phone" => "required|numeric",
+        "amount" => "required|numeric",
         "country" => "required|string",
-        "message" => "sometimes|string|max:255",
     ];
 
-    public function mount()
-    {
-        $this->countries = Country::all();
-    }
-    
-    public function contactUs()
+    public function donateNow()
     {
         $this->validate();
-        $contact = ([
+        // $soul = ConvertForm::create([
+        $donate = ([
             "name" => $this->name,
             "email" => $this->email,
             "phone" => $this->phone,
+            "amount" => $this->amount,
             "country" => $this->country,
-            "message" => $this->message,
         ]);
-        Mail::to('converts@cruzada.org')->send(new ContactForm($contact));
+        Mail::to('converts@cruzada.org')->send(new Donations($donate));
         return redirect()->to('/thank-you');
     }
-
     public function render()
     {
-        return view('livewire.contact');
+        return view('livewire.donate-form', [
+            'countries' => Country::all(),
+        ]);
     }
 }

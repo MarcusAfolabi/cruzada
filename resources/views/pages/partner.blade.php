@@ -13,5 +13,13 @@
         </div>
     </div>
 </section>
-
+<section class="section-contact-form">
+    <div class="section-space-bottom">
+        <div class="container">
+            <div class="text-center">
+                @livewire('partner-form')
+            </div>
+        </div>
+    </div>
+</section>
 @endsection

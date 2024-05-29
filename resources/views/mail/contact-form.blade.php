@@ -14,6 +14,8 @@ Country: {{ $contact['country'] }},
 Message: {{ $contact['message'] ?? 'NA' }}
 
 
+
+
 Thanks,<br>
 {{ config('app.name') }}
 </x-mail::message>
