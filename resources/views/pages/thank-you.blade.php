@@ -5,11 +5,6 @@
     <div class="relative z-10">
         <div class="container">
             <div class="breadcrumb-wrapper">
-                <!-- <ul class="breadcrumb-nav">
-                    <li>
-                        <a href="#">DONATE</a>
-                    </li>
-                </ul> -->
                 <h1 class="breadcrumb-title">@yield('title')</h1>
             </div>
         </div>

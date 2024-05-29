@@ -20,7 +20,6 @@ class SoulForm extends Component
     public function mount()
     {
         $this->countries = Country::all();
-        // dd($this->countries);
     }
     
     protected $rules = [
