@@ -2,13 +2,13 @@
      <form wire:submit.prevent='saveSoul' class="grid grid-cols-1 gap-y-5">
          <div class=" gap-x-6 gap-y-5 md:grid-cols-2">
              <div class="w-full">
-                 <input wire:model='name' placeholder="Enter your name" type="text" name="contact-name" id="contact-name" class="animate-transition w-full border border-white/[12%] bg-transparent px-5 py-4 text-sm leading-none text-white outline-none placeholder:text-white/[54%] focus:border-colorOrange" />
+                 <input wire:model='name' placeholder="Enter your name" type="text" name="contact-name" id="contact-name" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange" />
                  @error('name')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
              </div>
              <div class="mt-4 w-full">
-                 <input wire:model='phone' placeholder="Enter your phone number" name="contact-email" type="tel" class="animate-transition w-full border border-white/[12%] bg-transparent px-5 py-4 text-sm leading-none text-white outline-none placeholder:text-white/[54%] focus:border-colorOrange" />
+                 <input wire:model='phone' placeholder="Enter your phone number" name="contact-email" type="tel" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange" />
                  @error('phone')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
@@ -16,7 +16,7 @@
          </div>
          <div class="gap-x-6 gap-y-5 md:grid-cols-2">
              <div class="w-full">
-                 <input wire:model='address' placeholder="Enter your current address, city, state" type="text" name="contact-company-name" id="contact-company-name" placeholder="Your company" class="animate-transition w-full border border-white/[12%] bg-transparent px-5 py-4 text-sm leading-none text-white outline-none placeholder:text-white/[54%] focus:border-colorOrange" />
+                 <input wire:model='address' placeholder="Enter your current address, city, state" type="text" name="contact-company-name" id="contact-company-name" placeholder="Your company" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange" />
                  @error('address')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
@@ -24,7 +24,7 @@
          </div>
 
          <div class="w-full">
-             <select wire:model="country" id="contact-select" class="animate-transition w-full border border-white/[12%] bg-transparent px-5 py-4 text-sm leading-none text-white outline-none placeholder:text-white/[54%] focus:border-colorOrange">
+             <select wire:model="country" id="contact-select" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange">
                  @foreach($countries as $country)
                  <option value="{{ $country->name }} {{ $country->dial_code }}" class="text-colorDark">
                      {{ $country->name }} ({{ $country->dial_code }})
@@ -38,7 +38,7 @@
 
          <div class="grid grid-cols-1 gap-x-6">
              <div class="w-full">
-                 <textarea wire:model='prayer_request' name="contact-message" id="contact-message" placeholder="Your prayer request..." class="animate-transition min-h-40 w-full border border-white/[12%] bg-transparent px-5 py-4 text-sm leading-none text-white outline-none placeholder:text-white/[54%] focus:border-colorOrange"></textarea>
+                 <textarea wire:model='prayer_request' name="contact-message" id="contact-message" placeholder="Your prayer request..." class="animate-transition min-h-40 w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange"></textarea>
              </div>
              @error('prayer_request')
              <p class="text-red-500">{{ $message }}</p>
