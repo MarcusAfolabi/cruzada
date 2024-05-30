@@ -17,7 +17,7 @@
 <section class="section-contact-form">
     <div class="section-space-bottom">
         <div class="container">
-            <div class="text-center">
+            <div class="text-center text-colorDark">
                 @livewire('donate-form')
             </div>
         </div>
