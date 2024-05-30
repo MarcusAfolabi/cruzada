@@ -3,7 +3,7 @@
         <div class="grid grid-cols-[auto_auto] justify-between">
             <div class="flex items-center gap-[50px]">
                 <a href="/">
-                    <img src="assets/img/logo-dark.png" alt="logo-dark" width="118" height="25" class="h-auto max-w-full" />
+                    <img src="{{ asset('assets/img/logo-dark.png') }}" alt="logo-dark" width="118" height="25" class="h-auto max-w-full" />
                 </a>
                 <div class="menu-block-wrapper">
                     <div class="menu-overlay"></div>
@@ -54,6 +54,11 @@
                             </li>
                         </ul>
                     </nav>
+                </div>
+                <div class="block lg:hidden">
+                    <button id="openBtn" class="hamburger-menu mobile-menu-trigger">
+                        <span class="bg-colorDark before:bg-colorDark after:bg-colorDark"></span>
+                    </button>
                 </div>
             </div>
         </div>

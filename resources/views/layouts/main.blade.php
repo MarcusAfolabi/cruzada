@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>@yield('title') | {{ config('app.name', 'Cruzada Network International') }}</title>
     <meta name="description" content="The Bible is the foundation for Christianity. It contains the answers to all of life’s vital questions and changes the very lens of the worldview through which we view reality.">
-    @vite(['resources/css/app.css'])
+    <!-- @vite(['resources/css/app.css']) -->
     <link rel="shortcut icon" href="{{asset('assets/img/favicon.ico')}}" type="image/x-icon" />
     <link rel="stylesheet" href="{{asset('assets/fonts/webfonts/cabinet-grotesk/stylesheet.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/fonts/webfonts/poppins/stylesheet.css')}}" />

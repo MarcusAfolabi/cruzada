@@ -13,39 +13,6 @@
                 </div>
             </div>
         </div>
-        <div class="pb-[70px] pt-20 lg:pt-[100px] xl:pt-[130px]">
-            <div class="container">
-                <div class="flex flex-wrap items-center justify-center gap-10 lg:justify-between">
-                    <div class="flex flex-wrap items-center justify-center gap-10 lg:justify-start xl:gap-[94px]">
-                        <a href="index.html">
-                            <img src="assets/img/logo-white.png" alt="logo-white" width="118" height="25" class="h-auto w-[118px]" />
-                        </a>
-
-                        <form action="#" method="post" class="relative w-full sm:w-[424px]">
-                            <input type="text" name="email" id="emai" placeholder="Your Email" class="animate-transition mb-5 w-full border-b border-white/[12%] bg-colorGreyDark pb-4 text-white outline-none placeholder:text-white/[35%] focus:border-colorOrange focus:bg-colorGreyDark sm:mb-0 sm:pr-40" required />
-                            <button type="submit" class="btn group right-0 top-0 mx-auto flex items-center gap-x-3 border-b border-colorOrange pb-1 text-colorOrange sm:absolute sm:inline-flex">
-                                Subscribe Now
-                                <span class="relative flex items-center overflow-hidden">
-                                    <img src="assets/img/icon/icon-orange-arrow-long-right.svg" alt="icon-orange-arrow-long-right" width="24" height="12" class="animate-transition h-3 w-6 translate-x-0 group-hover:translate-x-full" />
-                                    <img src="assets/img/icon/icon-orange-arrow-long-right.svg" alt="icon-orange-arrow-long-right" width="24" height="12" class="animate-transition absolute inset-0 h-3 w-6 -translate-x-full group-hover:translate-x-0" />
-                                </span>
-                            </button>
-                        </form>
-                    </div>
-                    <div class="flex gap-[14px]">
-                        <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="facebook" class="inline-flex h-14 w-14 items-center justify-center rounded-[50%] border border-white/[8%] bg-white/5 hover:bg-colorOrange">
-                            <img src="assets/img/icon/icon-white-facebook.svg" alt="icon-white-facebook" width="24" height="24" class="h-auto w-6" />
-                        </a>
-                        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="instagram" class="inline-flex h-14 w-14 items-center justify-center rounded-[50%] border border-white/[8%] bg-white/5 hover:bg-colorOrange">
-                            <img src="assets/img/icon/icon-white-instagram-fill.svg" alt="icon-white-instagram-fill" width="24" height="24" class="h-auto w-6" />
-                        </a>
-                        <a href="https://www.x.com/" target="_blank" rel="noopener noreferrer" aria-label="x" class="inline-flex h-14 w-14 items-center justify-center rounded-[50%] border border-white/[8%] bg-white/5 hover:bg-colorOrange">
-                            <img src="assets/img/icon/icon-white-x-fill.svg" alt="icon-white-x-fill" width="24" height="24" class="h-auto w-6" />
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="">
             <div class="container">
                 <ul class="flex flex-wrap justify-start gap-5 border border-white/[12%] p-8 md:p-10 xl:justify-between xl:p-[60px]">
