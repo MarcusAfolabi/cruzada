@@ -23,6 +23,8 @@ class WebhookController extends Controller
             $transaction->customer_email = $data['customer']['email'];
             $transaction->customer_name = $data['customer']['name'];
             $transaction->customer_phone = $data['customer']['phonenumber'];
+            $transaction->choice = $data['customer']['choice'] ?? 'Null';
+            $transaction->frequency = $data['customer']['frequency'] ?? 'Null';
             $transaction->save();
         }
 
