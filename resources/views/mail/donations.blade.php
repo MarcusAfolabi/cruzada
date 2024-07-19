@@ -1,20 +1,17 @@
 <x-mail::message>
 # Hello Admin
 
-Incoming donation. The detail of a new donation form filled on the website are below
+Successful donation was done on the wep app. The detail of a new donation are below
 
-Name: {{ $donation['name'] }},
+Name: {{ $transaction['customer_name'] }},
 
-Phone: {{ $donation['phone'] }},
+Phone: {{ $transaction['customer_phone'] }},
 
-Email: {{ $donation['email'] }},
+Email: {{ $transaction['customer_email'] }},
 
-Country: {{ $donation['country'] }},
+Amount: {{ $transaction['amount'] }} {{ $transaction['currency'] }},
 
-Amount: {{ $donation['amount'] ?? 'NA' }}
-
-
-
+Ref: {{ $transaction['tx_ref'] }}
 
 Thanks,<br>
 {{ config('app.name') }}

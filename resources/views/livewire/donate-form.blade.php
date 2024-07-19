@@ -2,25 +2,25 @@
      <form wire:submit.prevent='donateNow' class="grid grid-cols-1 gap-y-5 bg-gray-900 px-4 py-4 rounded-2xl">
          <div class="text-colorDark gap-x-6 gap-y-5 md:grid-cols-2">
              <div class="w-full">
-                 <input wire:model.live='name' placeholder="Enter your name" type="text" name="contact-name" id="contact-name" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange" />
+                 <input wire:model='name' placeholder="Enter your name" type="text" name="contact-name" id="contact-name" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorOrange" />
                  @error('name')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
              </div>
              <div class="mt-4 w-full">
-                 <input wire:model.live='email' placeholder="Enter your email address" type="email" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
+                 <input wire:model='email' placeholder="Enter your email address" type="email" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
                  @error('email')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
              </div>
              <div class="mt-4 w-full">
-                 <input wire:model.live='phone' placeholder="Enter your phone number" type="tel" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
+                 <input wire:model='phone' placeholder="Enter your phone number" type="tel" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
                  @error('phone')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
              </div>
              <div class="mt-4 w-full">
-                 <input wire:model.live='amount' placeholder="Enter your amount" type="tel" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
+                 <input wire:model='amount' placeholder="Enter your amount" type="tel" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark" />
                  @error('amount')
                  <p class="text-red-500">{{ $message }}</p>
                  @enderror
@@ -30,9 +30,10 @@
 
          <div class="w-full">
              <label>Select your country</label>
-             <select wire:model.live="country" id="contact-select" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark">
+             <select wire:model="country" id="contact-select" class="animate-transition w-full border border-colorDark/[12%] bg-transparent px-5 py-4 text-sm leading-none text-colorDark outline-none placeholder:text-colorDark/[54%] focus:border-colorDark">
+                 <option selected hidden>Select your country</option>
                  @foreach($countries as $country)
-                 <option value="{{ $country->name }} {{ $country->dial_code }}" class="text-colorDark">
+                 <option value="{{ $country->name }} / {{ $country->currency_symbol }}" class="text-colorDark">
                      {{ $country->name }} ({{ $country->currency_symbol }})
                  </option>
                  @endforeach

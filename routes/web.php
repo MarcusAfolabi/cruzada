@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\WebhookController;
 
 /*
 |--------------------------------------------------------------------------
@@ -48,3 +49,14 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::post('/webhook/flutterwave', [WebhookController::class, 'handleWebhook'])->name('webhook.flutterwave');
+Route::get('/webhook/flutterwave', [WebhookController::class, 'handleRedirect'])->name('webhook.flutterwave.get');
+
+Route::get('/donation-success', function () {
+    return view('donation-success');
+})->name('donation.success');
+
+Route::get('/donation-failure', function () {
+    return view('donation-failure');
+})->name('donation.failure');

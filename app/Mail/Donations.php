@@ -13,10 +13,10 @@ class Donations extends Mailable
 {
     use Queueable, SerializesModels;
 
-    public $donation;
-    public function __construct($donation)
+    public $transaction;
+    public function __construct($transaction)
     {
-        $this->donation = $donation;
+        $this->transaction = $transaction;
     }
 
 

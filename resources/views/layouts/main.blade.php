@@ -25,6 +25,11 @@
     <main class="main-wrapper">
         @yield('main')
         @livewire('footer')
+        <h1>Donation Failed</h1>
+        <p>{{ session('error') }}</p>
+        
+        <h1>Thank you for your donation!</h1>
+        <p>{{ session('message') }}</p>
 
     </main>
     <script src="{{ asset('assets/js/vendors/counterup.js') }}" type="module"></script>
