@@ -17,6 +17,9 @@ use App\Http\Controllers\WebhookController;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/policy', function () {
+    return view('policy');
+});
 Route::get('/thank-you', function () {
     return view('pages.thank-you');
 });

@@ -21,7 +21,7 @@
                         </a>
                         <a href="#"> <span class="relative after:absolute after:left-[calc(100%+_17px)] after:top-1/2 after:h-[6px] after:w-[6px] after:-translate-y-1/2 after:rounded-[50%] after:bg-colorGreyLight last:after:hidden">GIVE
                                 NOW</span>
-                                
+
                         </a> <span class="relative after:absolute after:left-[calc(100%+_17px)] after:top-1/2 after:h-[6px] after:w-[6px] after:-translate-y-1/2 after:rounded-[50%] after:bg-colorGreyLight last:after:hidden">ABOUT
                             US</span>
                         </a>
@@ -31,15 +31,8 @@
                     </a>
                 </div>
             </div>
-        </div>
-        <!-- <img src="assets/img/images/th-2/7.png" alt="hero-bg-img-1" width="384" height="292"
-                class="image-move absolute left-10 top-[118px] -z-10 w-[40%] lg:w-[30%] xl:left-40 xl:w-auto xxl:left-[317px]" />
-            <img src="assets/img/images/th-2/2.png" alt="hero-bg-img-2" width="176" height="204"
-                class="image-move absolute left-0 top-[193px] -z-10 w-[25%] sm:top-[200px] sm:w-auto md:top-[293px] lg:left-0 xl:left-[70px] xxl:left-[182px]" /> -->
-        <img src="assets/img/images/th-2/3.png" alt="hero-bg-img-3" width="550" height="339" class="image-move absolute bottom-[77px] left-0 -z-10 w-[44%] rounded-[170px] lg:bottom-[106px] xl:bottom-auto xl:top-[610px] xl:w-auto" />
+        </div>  <img src="assets/img/images/th-2/3.png" alt="hero-bg-img-3" width="550" height="339" class="image-move absolute bottom-[77px] left-0 -z-10 w-[44%] rounded-[170px] lg:bottom-[106px] xl:bottom-auto xl:top-[610px] xl:w-auto" />
         <img src="assets/img/images/th-2/4.png" alt="hero-bg-img-4" width="550" height="339" class="image-move absolute right-0 top-[118px] -z-10 w-[44%] rounded-[170px] xl:w-auto" />
-        <!-- <img src="assets/img/images/th-2/5.png" alt="hero-bg-img-5" width="179" height="204"
-                class="image-move absolute right-5 top-[360px] -z-10 h-auto w-[15%] sm:top-[320px] md:top-[480px] lg:w-auto xl:right-6 xl:top-[576px] xxl:right-[161px]" /> -->
         <img src="assets/img/images/th-2/6.png" alt="hero-bg-img-6" width="463" height="292" class="image-move absolute bottom-20 right-10 -z-20 w-[40%] md:bottom-auto md:top-[512px] lg:top-[600px] xl:right-20 xl:top-[657px] xl:w-auto xxl:right-[257px]" />
     </div>
 </section>
@@ -140,6 +133,4 @@
 </section>
 
 @livewire('testimonal')
-
-
 @endsection
