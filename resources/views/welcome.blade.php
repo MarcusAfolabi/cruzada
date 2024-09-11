@@ -7,8 +7,10 @@
             <div class="container">
                 <div class="mx-auto flex max-w-[960px] flex-col items-center gap-y-12 text-center">
                     <h5 class="jos text-4xl font-extrabold text-colorDark sm:text-6xl md:text-7xl lg:text-9xl xl:text-[150px]" data-jos_delay="0.3">
-                        LET'S SPREAD THE GOOD NEWS
+                        SPREAD THE GOOD NEWS
                     </h5>
+                    <br>
+                    <br>
                     <div class="jos hidden md:inline-block">
                         <img src="assets/img/icon/icon-extra-long-arrow-down.svg" alt="icon-extra-long-arrow-down" width="37" height="106" />
                     </div>
@@ -19,6 +21,7 @@
                         </a>
                         <a href="#"> <span class="relative after:absolute after:left-[calc(100%+_17px)] after:top-1/2 after:h-[6px] after:w-[6px] after:-translate-y-1/2 after:rounded-[50%] after:bg-colorGreyLight last:after:hidden">GIVE
                                 NOW</span>
+                                
                         </a> <span class="relative after:absolute after:left-[calc(100%+_17px)] after:top-1/2 after:h-[6px] after:w-[6px] after:-translate-y-1/2 after:rounded-[50%] after:bg-colorGreyLight last:after:hidden">ABOUT
                             US</span>
                         </a>
