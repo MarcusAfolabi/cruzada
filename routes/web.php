@@ -39,7 +39,8 @@ Route::get('/read-the-bible', function () {
     return view('pages.read-the-bible');
 });
 
-Route::middleware([ 
+Route::middleware([
+    'auth',
     config('jetstream.auth_session'),
     'verified',
 ])->group(function () {
