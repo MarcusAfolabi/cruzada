@@ -18,7 +18,7 @@ class Contact extends Component
 
     protected $rules = [
         "name" => "required|max:200|string",
-        "email" => "required|email|string",
+        "email" => "required|email|valid_email_domain|string",
         "phone" => "required|numeric",
         "country" => "required|string",
         "message" => "sometimes|string|max:255",
@@ -32,6 +32,7 @@ class Contact extends Component
     public function contactUs()
     {
         $this->validate();
+        
         $contact = ([
             "name" => $this->name,
             "email" => $this->email,
