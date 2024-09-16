@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Contact With Us')
+@section('title', 'Connect With Us')
 @section('main')
 <section class="section-breadcrumb">
     <div class="relative z-10">
