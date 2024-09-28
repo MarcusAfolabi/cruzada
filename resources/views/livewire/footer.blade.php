@@ -42,9 +42,9 @@
                         <a href="https://webshoptechnology.com" target="_blank" class="font-medium hover:text-colorOrange">WEBSHOP TECHNOLOGY</a>
                     </p>
                     <p class="text-center">
-                        <a href="{{ url('terms-conditions') }}" target="_blank" class="font-medium hover:text-colorOrange">Terms and Condition</a>
-                        <a href="{{ url('privacy-policy') }}" target="_blank" class="font-medium hover:text-colorOrange">Privacy Policy</a>
-                        <a href="{{ url('refund-policy') }}" target="_blank" class="font-medium hover:text-colorOrange">Refund Policy</a>
+                        <a href="{{ url('terms-conditions') }}" target="_blank" class="font-medium hover:text-colorOrange">Terms and Condition</a> ||
+                        <a href="{{ url('privacy-policy') }}" target="_blank" class="font-medium hover:text-colorOrange">Privacy Policy</a> ||
+                        <a href="{{ url('refund-policy') }}" target="_blank" class="font-medium hover:text-colorOrange">Refund Policy</a> 
 
                     </p>
                 </div>
