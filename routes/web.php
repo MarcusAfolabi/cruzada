@@ -17,11 +17,14 @@ use App\Http\Controllers\WebhookController;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/terms', function () {
+Route::get('/terms-conditions', function () {
     return view('terms');
 });
-Route::get('/policy', function () {
+Route::get('/privacy-policy', function () {
     return view('policy');
+});
+Route::get('/refund-policy', function () {
+    return view('refund-policy');
 });
 
 Route::get('/about', function () {
