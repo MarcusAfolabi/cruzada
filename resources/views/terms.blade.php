@@ -7,92 +7,61 @@
 
             <div class="w-full sm:max-w-2xl mt-6 p-6 bg-white shadow-md overflow-hidden sm:rounded-lg prose">
                 <h2>Terms and Conditions</h2>
-                <p>Last updated: September 11, 2024</p>
-                <p>Please read these terms and conditions carefully before using Our Service.</p>
-                <h2>Interpretation and Definitions</h2>
-                <h3>Interpretation</h3>
-                <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
-                <h3>Definitions</h3>
-                <p>For the purposes of these Terms and Conditions:</p>
-                <ul>
-                    <li>
-                        <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
-                    </li>
-                    <li>
-                        <p><strong>Country</strong> refers to: Nigeria</p>
-                    </li>
-                    <li>
-                        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Cruzada Network International, No 30, Opeyemi Cresent, Magodo Harmony Estate, Ikeja, Lagos.</p>
-                    </li>
-                    <li>
-                        <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
-                    </li>
-                    <li>
-                        <p><strong>Service</strong> refers to the Website.</p>
-                    </li>
-                    <li>
-                        <p><strong>Terms and Conditions</strong> (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. </p>
-                    </li>
-                    <li>
-                        <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
-                    </li>
-                    <li>
-                        <p><strong>Website</strong> refers to Cruzada Network International, accessible from <a href="https://cruzadanetwork.org/" rel="external nofollow noopener" target="_blank">https://cruzadanetwork.org/</a></p>
-                    </li>
-                    <li>
-                        <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
-                    </li>
-                </ul>
-                <h2>Acknowledgment</h2>
-                <p>These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.</p>
-                <p>Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.</p>
-                <p>By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.</p>
-                <p>You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.</p>
-                <p>Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.</p>
-                <h2>Links to Other Websites</h2>
-                <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.</p>
-                <p>The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
-                <p>We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.</p>
-                <h2>Termination</h2>
-                <p>We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.</p>
-                <p>Upon termination, Your right to use the Service will cease immediately.</p>
-                <h2>Limitation of Liability</h2>
-                <p>Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>
-                <p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>
-                <p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>
-                <h2>&quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer</h2>
-                <p>The Service is provided to You &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>
-                <p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>
-                <p>Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.</p>
-                <h2>Governing Law</h2>
-                <p>The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.</p>
-                <h2>Disputes Resolution</h2>
-                <p>If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.</p>
-                <h2>For European Union (EU) Users</h2>
-                <p>If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident.</p>
-                <h2>United States Legal Compliance</h2>
-                <p>You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a &quot;terrorist supporting&quot; country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.</p>
-                <h2>Severability and Waiver</h2>
-                <h3>Severability</h3>
-                <p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.</p>
-                <h3>Waiver</h3>
-                <p>Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.</p>
-                <h2>Translation Interpretation</h2>
-                <p>These Terms and Conditions may have been translated if We have made them available to You on our Service.
-                    You agree that the original English text shall prevail in the case of a dispute.</p>
-                <h2>Changes to These Terms and Conditions</h2>
-                <p>We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.</p>
-                <p>By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.</p>
-                <h2>Contact Us</h2>
-                <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
-                <ul>
-                    <li>
-                        <p>By email: support@cruzadanetwork.org</p>
-                    </li>
-                    <li>
-                        <p>By visiting this page on our website: <a href="https://cruzadanetwork.org/contact" rel="external nofollow noopener" target="_blank">https://cruzadanetwork.org/contact</a></p>
-                    </li>
-                </ul>
+                <!-- <h1>TERMS AND CONDITIONS FOR CRUZADA NETWORK INTERNATIONAL</h1> -->
+                <p><strong>Effective Date:</strong> 01/08/2024</p>
+                <p><strong>Approved By:</strong> Chairman Board of Trustees</p>
+                <p><strong>Policy Owner:</strong> Compliance Department</p>
+                <p><strong>Review Date:</strong> 02/08/2024</p>
+
+                <h2>1. Introduction</h2>
+                <p>These Terms and Conditions ("Terms") govern your access to and use of the services provided by Cruzada Network International (CNI). By engaging with our platform, you agree to be bound by these Terms, our Privacy Policy, and all other policies referenced herein. If you do not agree to these Terms, please refrain from using our services.</p>
+                <p>Cruzada Network International reserves the right to update or modify these Terms at any time. Changes will be communicated to users through appropriate channels. Your continued use of our platform following any such modifications constitutes your acceptance of the new terms.</p>
+
+                <h2>2. Scope of Services</h2>
+                <p>CNI provides a variety of services aimed at facilitating donations, grants, and financial transactions for nonprofit and social impact initiatives. Our platform allows individuals, corporations, and other entities to contribute funds for charitable purposes and other related activities.</p>
+                <p>We also partner with third-party vendors and payment processors to ensure secure transactions. The services we offer may be subject to limitations, and certain functionalities may be restricted to authorized users or specific regions. CNI does not guarantee the availability of its services at all times and may modify or discontinue any aspect of the platform without prior notice.</p>
+
+                <h2>3. User Obligations</h2>
+                <p>As a user of CNI’s platform, you agree to provide accurate and complete information during registration and transaction processes. This includes, but is not limited to, your personal details, payment information, and any other relevant documentation. You are responsible for maintaining the confidentiality of your account credentials and must immediately notify CNI of any unauthorized use of your account.</p>
+                <p>By using our services, you agree not to engage in activities that are fraudulent, illegal, or harmful to CNI, its users, or its partners. This includes attempts to disrupt the functionality of the platform, unauthorized access to user data, or misuse of any financial contributions. Failure to comply with these obligations may result in suspension or termination of your account, as well as potential legal action.</p>
+
+                <h2>4. Donations and Payments</h2>
+                <p>All donations made through the CNI platform are voluntary, and the donor acknowledges that the funds contributed are for charitable purposes. Once a donation is processed, it is considered final and non-refundable unless otherwise specified in our Refund Policy. CNI is not responsible for the misuse of donated funds by recipients, though we make every effort to verify the legitimacy of all beneficiaries.</p>
+                <p>In cases where payments are made for services provided by CNI or its partners, the payer agrees to abide by the payment terms outlined at the time of the transaction. This includes ensuring that sufficient funds are available to cover the payment. CNI reserves the right to cancel or refuse transactions if any issues arise with payment processing.</p>
+
+                <h2>5. Intellectual Property</h2>
+                <p>All content, materials, and intellectual property available on the CNI platform, including but not limited to logos, text, images, and software, are the property of Cruzada Network International or its licensors. You are granted a limited, non-exclusive, non-transferable license to access and use the platform for its intended purposes.</p>
+                <p>You may not copy, modify, distribute, or create derivative works of any content or materials provided by CNI without prior written consent. Any unauthorized use of our intellectual property will result in the termination of your access to the platform and may lead to further legal action.</p>
+
+                <h2>6. Privacy and Data Protection</h2>
+                <p>CNI is committed to protecting the privacy and personal information of its users. By using our services, you consent to the collection, use, and storage of your data in accordance with our Privacy Policy. We take reasonable measures to safeguard your information, but we cannot guarantee the security of data transmitted over the internet.</p>
+                <p>Users are responsible for ensuring that the personal information they provide is accurate and up-to-date. CNI will not be liable for any damages or losses resulting from unauthorized access to or misuse of user data, except where such access is due to CNI’s negligence.</p>
+
+                <h2>7. Liability Limitations</h2>
+                <p>Cruzada Network International strives to provide a secure and reliable platform for all users, but we do not guarantee that our services will always be error-free or uninterrupted. You agree to use the platform at your own risk, and CNI disclaims any liability for damages arising from your use of our services, including but not limited to loss of data, financial losses, or system downtime.</p>
+                <p>In no event shall CNI be held liable for indirect, incidental, or consequential damages, even if we have been advised of the possibility of such damages. Our total liability in connection with any claim related to our services will be limited to the amount you paid for the specific service in question, if applicable.</p>
+
+                <h2>8. Dispute Resolution</h2>
+                <p>Any disputes arising from or related to the use of CNI’s services will be resolved through negotiations between the parties. If the dispute cannot be resolved amicably, it will be referred to arbitration in accordance with the laws of Nigeria. The arbitration process will be conducted in English, and the decision of the arbitrator will be final and binding.</p>
+                <p>By agreeing to these Terms, you waive the right to pursue any class-action claims against CNI. Each party will bear its own costs related to the arbitration process, unless otherwise awarded by the arbitrator.</p>
+
+                <h2>9. Termination of Services</h2>
+                <p>Cruzada Network International reserves the right to suspend or terminate your access to the platform at any time, without notice, if you violate these Terms or engage in activities that harm the integrity of our services. In cases where your account is terminated, you may be restricted from creating new accounts or accessing CNI’s services in the future.</p>
+                <p>Users may also choose to terminate their account at any time by contacting CNI’s support team. However, any transactions made prior to termination will remain subject to these Terms, and CNI is not obligated to refund any payments unless specified in our Refund Policy.</p>
+
+                <h2>10. Governing Law</h2>
+                <p>These Terms and any disputes related to them will be governed by and interpreted in accordance with the laws of Nigeria. If any provision of these Terms is found to be invalid or unenforceable, it will be amended to reflect the original intent, while the remaining provisions will continue in full force and effect.</p>
+                <p>By using CNI’s services, you agree to submit to the exclusive jurisdiction of the courts in Nigeria for the resolution of any legal disputes arising from these Terms or your use of the platform.</p>
+
+                <h2>11. Amendments</h2>
+                <p>CNI reserves the right to amend these Terms at any time in response to changes in law, business practices, or technology. Any amendments will be communicated to users through official channels, and continued use of the platform after the changes take effect will constitute your acceptance of the new Terms.</p>
+                <p>We recommend that users periodically review these Terms to stay informed about any updates. If you do not agree to the amended Terms, you should discontinue your use of the platform.</p>
+
+                <h2>12. Contact Information</h2>
+                <p>For any inquiries or concerns regarding these Terms and Conditions, please reach out to us at:</p>
+                <p><strong>Cruzada Network International Compliance Department</strong><br>
+                    Email: <a href="mailto:info@cruzadanetwork.com">info@cruzadanetwork.com</a><br>
+                    Phone: +234-XXX-XXXX-XXX</p>
             </div>
         </div>
     </div>
