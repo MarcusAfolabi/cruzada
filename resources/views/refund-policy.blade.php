@@ -6,7 +6,7 @@
             </div>
 
             <div class="w-full sm:max-w-2xl mt-6 p-6 bg-white shadow-md overflow-hidden sm:rounded-lg prose">
-                <h1>REFUND POLICY FOR CRUZADA NETWORK INTERNATIONAL</h1>
+                <h2>Refund Policy</h2>
 
                 <p><strong>Effective Date:</strong> 01/06/2024</p>
                 <p><strong>Approved By:</strong> Chairman Board of Trustees</p>
