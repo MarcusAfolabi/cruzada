@@ -61,7 +61,7 @@
                 <p>For any inquiries or concerns regarding these Terms and Conditions, please reach out to us at:</p>
                 <p><strong>Cruzada Network International Compliance Department</strong><br>
                     Email: <a href="mailto:info@cruzadanetwork.com">info@cruzadanetwork.com</a><br>
-                    Phone: +234-XXX-XXXX-XXX</p>
+                    Phone: +2348134615507</p>
             </div>
         </div>
     </div>

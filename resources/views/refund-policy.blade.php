@@ -77,7 +77,7 @@
                     You can reach us via the following contact information:
                     <br>Cruzada Network International Compliance Department
                     <br>Email: <a href="mailto:refunds@cruzadanetwork.com">refunds@cruzadanetwork.com</a>
-                    <br>Phone: [+234-XXX-XXXX-XXX]
+                    <br>Phone: +2348134615507
                 </p>
 
                 <h2>9. Amendments</h2>
